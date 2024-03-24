@@ -37,9 +37,5 @@ Bizcard is a Python application designed to automate the process of extracting k
 
 4. Upload business card images to extract information.
 
-## Contributors
-- John Doe (john@example.com)
-- Jane Smith (jane@example.com)
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
